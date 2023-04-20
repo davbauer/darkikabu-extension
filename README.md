@@ -1,8 +1,19 @@
 # Darkikabu Extension
 
-## Chrome Webstore Installation
+## 👉 (Empfohlen) Chrome Webstore Installation
 
 Chrome Webstore: https://chrome.google.com/webstore/detail/darkikabu/dlfmmhiopedplookhebmjmebfioeofdf
+
+## 🙋‍♂️ Verbesserungsvorschlag / Bugfix
+
+Falls jemand einen Verbesserungsvorschlag hat oder einen Bug gefunden hat, darf derjenige gerne eine Pull Request machen oder ein Issue mit einer Feature Request eröffnen!
+Je nach Änderung wird die Extension im Chrome Web Store manuell geupdated.
+
+## ♟ Alternative Extensions
+
+- https://github.com/ouihq/betterKabu
+
+--------
 
 ## Manuelle Installation
 
