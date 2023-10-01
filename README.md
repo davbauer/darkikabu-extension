@@ -12,6 +12,7 @@ Je nach Änderung wird die Extension im Chrome Web Store manuell geupdated.
 ## ♟ Alternative Extensions
 
 - https://github.com/ouihq/betterKabu
+   - Chrome Webstore ([https://chrome.google.com/webstore/detail/betterkabu/ipjhihpfmeboghcbncneiheafcpodcin](https://chrome.google.com/webstore/detail/betterkabu/ipjhihpfmeboghcbncneiheafcpodcin))
 
 --------
 
